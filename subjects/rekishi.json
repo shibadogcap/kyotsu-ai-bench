@@ -1,0 +1,66 @@
+{
+ "slug": "rekishi",
+ "name": "歴史総合",
+ "name_en": "History (Basic)",
+ "full_marks": 50,
+ "test_mean": 24.98,
+ "test_sd": 8.54,
+ "blanks": 16,
+ "figures": 8,
+ "tables": 8,
+ "models": {
+  "jev_seq_without": {
+   "score": 40,
+   "acc": 0.8125,
+   "hensachi": 67.6
+  },
+  "luna_seq_without": {
+   "score": 25,
+   "acc": 0.5,
+   "hensachi": 50.0
+  },
+  "low_luna_seq_without": {
+   "score": 34,
+   "acc": 0.6875,
+   "hensachi": 60.6
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 19,
+     "rate": 0.76
+    },
+    "luna_seq_without": {
+     "score": 10,
+     "rate": 0.4
+    },
+    "low_luna_seq_without": {
+     "score": 19,
+     "rate": 0.76
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 21,
+     "rate": 0.84
+    },
+    "luna_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    }
+   }
+  }
+ ]
+}

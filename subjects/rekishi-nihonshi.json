@@ -1,0 +1,138 @@
+{
+ "slug": "rekishi-nihonshi",
+ "name": "歴史日探",
+ "name_en": "Japanese History",
+ "full_marks": 100,
+ "test_mean": 62.29,
+ "test_sd": 17.47,
+ "blanks": 34,
+ "figures": 11,
+ "tables": 15,
+ "models": {
+  "jev_seq_without": {
+   "score": 64,
+   "acc": 0.6364,
+   "hensachi": 51.0
+  },
+  "luna_seq_without": {
+   "score": 46,
+   "acc": 0.4545,
+   "hensachi": 40.7
+  },
+  "low_luna_seq_without": {
+   "score": 82,
+   "acc": 0.8182,
+   "hensachi": 61.3
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.64
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.28
+    },
+    "low_luna_seq_without": {
+     "score": 19,
+     "rate": 0.76
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 15,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.8
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.4
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.8
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 9,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.4
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.8
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 15,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 15,
+     "rate": 1.0
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 3,
+     "rate": 0.2
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.6
+    }
+   }
+  }
+ ]
+}

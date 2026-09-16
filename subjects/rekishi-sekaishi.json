@@ -1,0 +1,120 @@
+{
+ "slug": "rekishi-sekaishi",
+ "name": "歴史世探",
+ "name_en": "World History",
+ "full_marks": 100,
+ "test_mean": 60.88,
+ "test_sd": 18.04,
+ "blanks": 32,
+ "figures": 12,
+ "tables": 19,
+ "models": {
+  "jev_seq_without": {
+   "score": 53,
+   "acc": 0.5312,
+   "hensachi": 45.6
+  },
+  "luna_seq_without": {
+   "score": 44,
+   "acc": 0.4375,
+   "hensachi": 40.6
+  },
+  "low_luna_seq_without": {
+   "score": 55,
+   "acc": 0.5625,
+   "hensachi": 46.7
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 0.72
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.36
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 21,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.286
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.571
+    },
+    "low_luna_seq_without": {
+     "score": 6,
+     "rate": 0.286
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 9,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 18,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.333
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.333
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.5
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.778
+    },
+    "luna_seq_without": {
+     "score": 8,
+     "rate": 0.444
+    },
+    "low_luna_seq_without": {
+     "score": 7,
+     "rate": 0.389
+    }
+   }
+  }
+ ]
+}

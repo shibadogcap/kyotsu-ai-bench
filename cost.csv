@@ -1,0 +1,4 @@
+model,input_tokens,output_tokens,seconds,usd
+Jev,618122,57372,233.1,0.026
+luna-none,328026,7302,530.0,0.074
+luna-low,328026,123279,1847.8,0.214

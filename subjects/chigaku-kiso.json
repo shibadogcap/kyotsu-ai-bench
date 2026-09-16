@@ -1,0 +1,102 @@
+{
+ "slug": "chigaku-kiso",
+ "name": "地学基礎",
+ "name_en": "Earth Sci. Basics",
+ "full_marks": 50,
+ "test_mean": 28.17,
+ "test_sd": 8.86,
+ "blanks": 15,
+ "figures": 8,
+ "tables": 11,
+ "models": {
+  "jev_seq_without": {
+   "score": 37,
+   "acc": 0.7333,
+   "hensachi": 60.0
+  },
+  "luna_seq_without": {
+   "score": 19,
+   "acc": 0.4,
+   "hensachi": 39.7
+  },
+  "low_luna_seq_without": {
+   "score": 23,
+   "acc": 0.4667,
+   "hensachi": 44.2
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 17,
+     "rate": 0.85
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.45
+    },
+    "low_luna_seq_without": {
+     "score": 10,
+     "rate": 0.5
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 10,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.3
+    },
+    "low_luna_seq_without": {
+     "score": 3,
+     "rate": 0.3
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 10,
+   "models": {
+    "jev_seq_without": {
+     "score": 4,
+     "rate": 0.4
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.4
+    },
+    "low_luna_seq_without": {
+     "score": 4,
+     "rate": 0.4
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 10,
+   "models": {
+    "jev_seq_without": {
+     "score": 10,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.3
+    },
+    "low_luna_seq_without": {
+     "score": 6,
+     "rate": 0.6
+    }
+   }
+  }
+ ]
+}

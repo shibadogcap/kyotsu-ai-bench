@@ -1,0 +1,138 @@
+{
+ "slug": "koukyou-keizai",
+ "name": "公共政経",
+ "name_en": "Civics & Econ.",
+ "full_marks": 100,
+ "test_mean": 63.59,
+ "test_sd": 17.54,
+ "blanks": 34,
+ "figures": 6,
+ "tables": 10,
+ "models": {
+  "jev_seq_without": {
+   "score": 86,
+   "acc": 0.875,
+   "hensachi": 62.8
+  },
+  "luna_seq_without": {
+   "score": 57,
+   "acc": 0.5938,
+   "hensachi": 46.2
+  },
+  "low_luna_seq_without": {
+   "score": 74,
+   "acc": 0.75,
+   "hensachi": 55.9
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.462
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 19,
+   "models": {
+    "jev_seq_without": {
+     "score": 19,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.474
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.789
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 19,
+   "models": {
+    "jev_seq_without": {
+     "score": 19,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.474
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 0.842
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 19,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.632
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.474
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.474
+    }
+   }
+  }
+ ]
+}

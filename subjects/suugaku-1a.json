@@ -1,0 +1,102 @@
+{
+ "slug": "suugaku-1a",
+ "name": "数学IA",
+ "name_en": "Math I/A",
+ "full_marks": 100,
+ "test_mean": 47.2,
+ "test_sd": 19.41,
+ "blanks": 88,
+ "figures": 35,
+ "tables": 74,
+ "models": {
+  "jev_seq_without": {
+   "score": 13,
+   "acc": 0.1538,
+   "hensachi": 32.4
+  },
+  "luna_seq_without": {
+   "score": 10,
+   "acc": 0.1026,
+   "hensachi": 30.8
+  },
+  "low_luna_seq_without": {
+   "score": 35,
+   "acc": 0.359,
+   "hensachi": 43.7
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 30,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.2
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.167
+    },
+    "low_luna_seq_without": {
+     "score": 8,
+     "rate": 0.267
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 30,
+   "models": {
+    "jev_seq_without": {
+     "score": 5,
+     "rate": 0.167
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.1
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 2,
+     "rate": 0.1
+    },
+    "luna_seq_without": {
+     "score": 2,
+     "rate": 0.1
+    },
+    "low_luna_seq_without": {
+     "score": 5,
+     "rate": 0.25
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 0,
+     "rate": 0.0
+    },
+    "luna_seq_without": {
+     "score": 0,
+     "rate": 0.0
+    },
+    "low_luna_seq_without": {
+     "score": 2,
+     "rate": 0.1
+    }
+   }
+  }
+ ]
+}

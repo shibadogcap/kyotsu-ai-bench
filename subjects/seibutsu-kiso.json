@@ -1,0 +1,84 @@
+{
+ "slug": "seibutsu-kiso",
+ "name": "生物基礎",
+ "name_en": "Biology Basics",
+ "full_marks": 50,
+ "test_mean": 36.46,
+ "test_sd": 9.57,
+ "blanks": 16,
+ "figures": 6,
+ "tables": 4,
+ "models": {
+  "jev_seq_without": {
+   "score": 43,
+   "acc": 0.875,
+   "hensachi": 56.8
+  },
+  "luna_seq_without": {
+   "score": 30,
+   "acc": 0.625,
+   "hensachi": 43.2
+  },
+  "low_luna_seq_without": {
+   "score": 34,
+   "acc": 0.6875,
+   "hensachi": 47.4
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.562
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 0.812
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 15,
+     "rate": 0.833
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.5
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.562
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "listening",
+ "name": "英語L",
+ "name_en": "English L",
+ "full_marks": 100,
+ "test_mean": 54.65,
+ "test_sd": 18.4,
+ "blanks": 37,
+ "figures": 14,
+ "tables": 7,
+ "models": {
+  "jev_seq_without": {
+   "score": 75,
+   "acc": 0.75,
+   "hensachi": 61.1
+  },
+  "luna_seq_without": {
+   "score": 61,
+   "acc": 0.5625,
+   "hensachi": 53.5
+  },
+  "low_luna_seq_without": {
+   "score": 61,
+   "acc": 0.5625,
+   "hensachi": 53.5
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 28,
+   "models": {
+    "jev_seq_without": {
+     "score": 22,
+     "rate": 0.786
+    },
+    "luna_seq_without": {
+     "score": 18,
+     "rate": 0.643
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.536
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 8,
+     "rate": 0.667
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.333
+    },
+    "low_luna_seq_without": {
+     "score": 4,
+     "rate": 0.333
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 15,
+     "rate": 0.833
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 8,
+     "rate": 0.667
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.417
+    },
+    "low_luna_seq_without": {
+     "score": 5,
+     "rate": 0.417
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.875
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 14,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 11,
+     "rate": 0.786
+    }
+   }
+  }
+ ]
+}

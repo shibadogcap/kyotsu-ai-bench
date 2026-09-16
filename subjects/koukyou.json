@@ -1,0 +1,102 @@
+{
+ "slug": "koukyou",
+ "name": "公共",
+ "name_en": "Civics (Basic)",
+ "full_marks": 50,
+ "test_mean": 29.27,
+ "test_sd": 8.98,
+ "blanks": 16,
+ "figures": 3,
+ "tables": 3,
+ "models": {
+  "jev_seq_without": {
+   "score": 40,
+   "acc": 0.8125,
+   "hensachi": 61.9
+  },
+  "luna_seq_without": {
+   "score": 34,
+   "acc": 0.6875,
+   "hensachi": 55.3
+  },
+  "low_luna_seq_without": {
+   "score": 40,
+   "acc": 0.8125,
+   "hensachi": 61.9
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 13,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.538
+    },
+    "low_luna_seq_without": {
+     "score": 10,
+     "rate": 0.769
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.462
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    }
+   }
+  }
+ ]
+}

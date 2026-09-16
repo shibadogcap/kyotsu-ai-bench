@@ -1,0 +1,156 @@
+{
+ "slug": "suugaku2bc",
+ "name": "数学IIBC",
+ "name_en": "Math II/B/C",
+ "full_marks": 100,
+ "test_mean": 54.52,
+ "test_sd": 21.84,
+ "blanks": 105,
+ "figures": 53,
+ "tables": 72,
+ "models": {
+  "jev_seq_without": {
+   "score": 44,
+   "acc": 0.4576,
+   "hensachi": 45.2
+  },
+  "luna_seq_without": {
+   "score": 26,
+   "acc": 0.2542,
+   "hensachi": 36.9
+  },
+  "low_luna_seq_without": {
+   "score": 70,
+   "acc": 0.7119,
+   "hensachi": 57.1
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 2,
+     "rate": 0.133
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.333
+    },
+    "low_luna_seq_without": {
+     "score": 8,
+     "rate": 0.533
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.467
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.333
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 22,
+   "models": {
+    "jev_seq_without": {
+     "score": 8,
+     "rate": 0.364
+    },
+    "luna_seq_without": {
+     "score": 0,
+     "rate": 0.0
+    },
+    "low_luna_seq_without": {
+     "score": 10,
+     "rate": 0.455
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 5,
+     "rate": 0.312
+    },
+    "luna_seq_without": {
+     "score": 1,
+     "rate": 0.062
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.938
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 10,
+     "rate": 0.625
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.375
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.875
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.438
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.188
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.875
+    }
+   }
+  },
+  {
+   "daimon": "7",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 10,
+     "rate": 0.625
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.438
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    }
+   }
+  }
+ ]
+}

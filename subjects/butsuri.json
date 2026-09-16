@@ -1,0 +1,102 @@
+{
+ "slug": "butsuri",
+ "name": "物理",
+ "name_en": "Physics",
+ "full_marks": 100,
+ "test_mean": 45.55,
+ "test_sd": 20.24,
+ "blanks": 22,
+ "figures": 18,
+ "tables": 7,
+ "models": {
+  "jev_seq_without": {
+   "score": 57,
+   "acc": 0.5909,
+   "hensachi": 55.7
+  },
+  "luna_seq_without": {
+   "score": 24,
+   "acc": 0.2727,
+   "hensachi": 39.4
+  },
+  "low_luna_seq_without": {
+   "score": 51,
+   "acc": 0.5,
+   "hensachi": 52.7
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 20,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 0,
+     "rate": 0.0
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 10,
+     "rate": 0.4
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.48
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.36
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 0.64
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 0.8
+    }
+   }
+  }
+ ]
+}

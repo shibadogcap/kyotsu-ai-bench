@@ -1,0 +1,120 @@
+{
+ "slug": "kagaku",
+ "name": "化学",
+ "name_en": "Chemistry",
+ "full_marks": 100,
+ "test_mean": 56.86,
+ "test_sd": 23.17,
+ "blanks": 33,
+ "figures": 13,
+ "tables": 2,
+ "models": {
+  "jev_seq_without": {
+   "score": 65,
+   "acc": 0.697,
+   "hensachi": 53.5
+  },
+  "luna_seq_without": {
+   "score": 33,
+   "acc": 0.3636,
+   "hensachi": 39.7
+  },
+  "low_luna_seq_without": {
+   "score": 71,
+   "acc": 0.7273,
+   "hensachi": 56.1
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.3
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.35
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 0.65
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.15
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 11,
+     "rate": 0.55
+    },
+    "luna_seq_without": {
+     "score": 5,
+     "rate": 0.25
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 0.65
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.3
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.45
+    }
+   }
+  }
+ ]
+}

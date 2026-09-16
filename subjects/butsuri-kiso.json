@@ -1,0 +1,84 @@
+{
+ "slug": "butsuri-kiso",
+ "name": "物理基礎",
+ "name_en": "Physics Basics",
+ "full_marks": 50,
+ "test_mean": 34.68,
+ "test_sd": 11.26,
+ "blanks": 14,
+ "figures": 8,
+ "tables": 6,
+ "models": {
+  "jev_seq_without": {
+   "score": 46,
+   "acc": 0.9286,
+   "hensachi": 60.1
+  },
+  "luna_seq_without": {
+   "score": 21,
+   "acc": 0.4286,
+   "hensachi": 37.9
+  },
+  "low_luna_seq_without": {
+   "score": 35,
+   "acc": 0.7143,
+   "hensachi": 50.3
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.25
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.75
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 8,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 8,
+     "rate": 0.5
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.833
+    }
+   }
+  }
+ ]
+}

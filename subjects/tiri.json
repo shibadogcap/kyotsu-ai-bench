@@ -1,0 +1,102 @@
+{
+ "slug": "tiri",
+ "name": "地理総合",
+ "name_en": "Geography (Basic)",
+ "full_marks": 50,
+ "test_mean": 24.27,
+ "test_sd": 9.17,
+ "blanks": 16,
+ "figures": 16,
+ "tables": 11,
+ "models": {
+  "jev_seq_without": {
+   "score": 21,
+   "acc": 0.4375,
+   "hensachi": 46.4
+  },
+  "luna_seq_without": {
+   "score": 25,
+   "acc": 0.5,
+   "hensachi": 50.8
+  },
+  "low_luna_seq_without": {
+   "score": 40,
+   "acc": 0.8125,
+   "hensachi": 67.2
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "luna_seq_without": {
+     "score": 3,
+     "rate": 0.231
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 3,
+     "rate": 0.231
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.538
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 3,
+     "rate": 0.25
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    }
+   }
+  }
+ ]
+}

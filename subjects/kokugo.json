@@ -1,0 +1,120 @@
+{
+ "slug": "kokugo",
+ "name": "国語",
+ "name_en": "Japanese",
+ "full_marks": 200,
+ "test_mean": 116.37,
+ "test_sd": 32.87,
+ "blanks": 37,
+ "figures": 12,
+ "tables": 12,
+ "models": {
+  "jev_seq_without": {
+   "score": 56,
+   "acc": 0.2432,
+   "hensachi": 31.6
+  },
+  "luna_seq_without": {
+   "score": 74,
+   "acc": 0.3243,
+   "hensachi": 37.1
+  },
+  "low_luna_seq_without": {
+   "score": 72,
+   "acc": 0.3514,
+   "hensachi": 36.5
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 45,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.156
+    },
+    "luna_seq_without": {
+     "score": 14,
+     "rate": 0.311
+    },
+    "low_luna_seq_without": {
+     "score": 23,
+     "rate": 0.511
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 45,
+   "models": {
+    "jev_seq_without": {
+     "score": 13,
+     "rate": 0.289
+    },
+    "luna_seq_without": {
+     "score": 14,
+     "rate": 0.311
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.311
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 5,
+     "rate": 0.25
+    },
+    "luna_seq_without": {
+     "score": 8,
+     "rate": 0.4
+    },
+    "low_luna_seq_without": {
+     "score": 11,
+     "rate": 0.55
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 45,
+   "models": {
+    "jev_seq_without": {
+     "score": 13,
+     "rate": 0.289
+    },
+    "luna_seq_without": {
+     "score": 15,
+     "rate": 0.333
+    },
+    "low_luna_seq_without": {
+     "score": 5,
+     "rate": 0.111
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 45,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 0.4
+    },
+    "luna_seq_without": {
+     "score": 23,
+     "rate": 0.511
+    },
+    "low_luna_seq_without": {
+     "score": 19,
+     "rate": 0.422
+    }
+   }
+  }
+ ]
+}

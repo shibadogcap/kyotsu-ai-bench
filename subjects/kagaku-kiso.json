@@ -1,0 +1,66 @@
+{
+ "slug": "kagaku-kiso",
+ "name": "化学基礎",
+ "name_en": "Chemistry Basics",
+ "full_marks": 50,
+ "test_mean": 28.58,
+ "test_sd": 10.6,
+ "blanks": 16,
+ "figures": 5,
+ "tables": 7,
+ "models": {
+  "jev_seq_without": {
+   "score": 30,
+   "acc": 0.625,
+   "hensachi": 51.3
+  },
+  "luna_seq_without": {
+   "score": 25,
+   "acc": 0.5,
+   "hensachi": 46.6
+  },
+  "low_luna_seq_without": {
+   "score": 39,
+   "acc": 0.8125,
+   "hensachi": 59.8
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 30,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 18,
+     "rate": 0.6
+    },
+    "low_luna_seq_without": {
+     "score": 30,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.35
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.45
+    }
+   }
+  }
+ ]
+}

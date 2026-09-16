@@ -1,0 +1,174 @@
+{
+ "slug": "reading",
+ "name": "英語R",
+ "name_en": "English R",
+ "full_marks": 100,
+ "test_mean": 62.81,
+ "test_sd": 23.72,
+ "blanks": 44,
+ "figures": 39,
+ "tables": 21,
+ "models": {
+  "jev_seq_without": {
+   "score": 83,
+   "acc": 0.8235,
+   "hensachi": 58.5
+  },
+  "luna_seq_without": {
+   "score": 85,
+   "acc": 0.8529,
+   "hensachi": 59.4
+  },
+  "low_luna_seq_without": {
+   "score": 95,
+   "acc": 0.9412,
+   "hensachi": 63.6
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 6,
+   "models": {
+    "jev_seq_without": {
+     "score": 4,
+     "rate": 0.667
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.667
+    },
+    "low_luna_seq_without": {
+     "score": 4,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 9,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.667
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 1.0
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.875
+    },
+    "luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    }
+   }
+  },
+  {
+   "daimon": "7",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "8",
+   "full_marks": 17,
+   "models": {
+    "jev_seq_without": {
+     "score": 13,
+     "rate": 0.765
+    },
+    "luna_seq_without": {
+     "score": 13,
+     "rate": 0.765
+    },
+    "low_luna_seq_without": {
+     "score": 17,
+     "rate": 1.0
+    }
+   }
+  }
+ ]
+}

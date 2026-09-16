@@ -1,0 +1,120 @@
+{
+ "slug": "seibutsu",
+ "name": "生物",
+ "name_en": "Biology",
+ "full_marks": 100,
+ "test_mean": 55.01,
+ "test_sd": 19.2,
+ "blanks": 25,
+ "figures": 16,
+ "tables": 9,
+ "models": {
+  "jev_seq_without": {
+   "score": 71,
+   "acc": 0.72,
+   "hensachi": 58.3
+  },
+  "luna_seq_without": {
+   "score": 35,
+   "acc": 0.36,
+   "hensachi": 39.6
+  },
+  "low_luna_seq_without": {
+   "score": 80,
+   "acc": 0.8,
+   "hensachi": 63.0
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 8,
+     "rate": 0.4
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.35
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 20,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 16,
+     "rate": 0.8
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.35
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 1.0
+    }
+   }
+  }
+ ]
+}

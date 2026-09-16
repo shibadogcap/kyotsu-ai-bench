@@ -1,0 +1,138 @@
+{
+ "slug": "koukyou-rinri",
+ "name": "公共倫理",
+ "name_en": "Civics & Ethics",
+ "full_marks": 100,
+ "test_mean": 64.24,
+ "test_sd": 15.67,
+ "blanks": 32,
+ "figures": 3,
+ "tables": 10,
+ "models": {
+  "jev_seq_without": {
+   "score": 67,
+   "acc": 0.6875,
+   "hensachi": 51.8
+  },
+  "luna_seq_without": {
+   "score": 56,
+   "acc": 0.5938,
+   "hensachi": 44.7
+  },
+  "low_luna_seq_without": {
+   "score": 79,
+   "acc": 0.7812,
+   "hensachi": 59.4
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.462
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 28,
+   "models": {
+    "jev_seq_without": {
+     "score": 25,
+     "rate": 0.893
+    },
+    "luna_seq_without": {
+     "score": 12,
+     "rate": 0.429
+    },
+    "low_luna_seq_without": {
+     "score": 19,
+     "rate": 0.679
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.4
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.6
+    },
+    "low_luna_seq_without": {
+     "score": 6,
+     "rate": 0.4
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 8,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 8,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 16,
+   "models": {
+    "jev_seq_without": {
+     "score": 10,
+     "rate": 0.625
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.562
+    },
+    "low_luna_seq_without": {
+     "score": 16,
+     "rate": 1.0
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "tiri-sougou",
+ "name": "地理総探",
+ "name_en": "Geography",
+ "full_marks": 100,
+ "test_mean": 61.87,
+ "test_sd": 16.14,
+ "blanks": 30,
+ "figures": 27,
+ "tables": 19,
+ "models": {
+  "jev_seq_without": {
+   "score": 60,
+   "acc": 0.6,
+   "hensachi": 48.8
+  },
+  "luna_seq_without": {
+   "score": 41,
+   "acc": 0.4,
+   "hensachi": 37.1
+  },
+  "low_luna_seq_without": {
+   "score": 56,
+   "acc": 0.5667,
+   "hensachi": 46.4
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 13,
+   "models": {
+    "jev_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.462
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 12,
+   "models": {
+    "jev_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "luna_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    },
+    "low_luna_seq_without": {
+     "score": 6,
+     "rate": 0.5
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 21,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.333
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.19
+    },
+    "low_luna_seq_without": {
+     "score": 8,
+     "rate": 0.381
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 17,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.824
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.412
+    },
+    "low_luna_seq_without": {
+     "score": 9,
+     "rate": 0.529
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 17,
+     "rate": 0.85
+    },
+    "luna_seq_without": {
+     "score": 11,
+     "rate": 0.55
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.7
+    }
+   }
+  },
+  {
+   "daimon": "6",
+   "full_marks": 17,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.412
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.412
+    },
+    "low_luna_seq_without": {
+     "score": 10,
+     "rate": 0.588
+    }
+   }
+  }
+ ]
+}

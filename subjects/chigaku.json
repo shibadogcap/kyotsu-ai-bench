@@ -1,0 +1,120 @@
+{
+ "slug": "chigaku",
+ "name": "地学",
+ "name_en": "Earth Science",
+ "full_marks": 100,
+ "test_mean": 44.29,
+ "test_sd": 18.1,
+ "blanks": 28,
+ "figures": 15,
+ "tables": 18,
+ "models": {
+  "jev_seq_without": {
+   "score": 71,
+   "acc": 0.7143,
+   "hensachi": 64.8
+  },
+  "luna_seq_without": {
+   "score": 36,
+   "acc": 0.3571,
+   "hensachi": 45.4
+  },
+  "low_luna_seq_without": {
+   "score": 61,
+   "acc": 0.6071,
+   "hensachi": 59.2
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 15,
+     "rate": 0.833
+    },
+    "luna_seq_without": {
+     "score": 11,
+     "rate": 0.611
+    },
+    "low_luna_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 15,
+   "models": {
+    "jev_seq_without": {
+     "score": 7,
+     "rate": 0.467
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.267
+    },
+    "low_luna_seq_without": {
+     "score": 7,
+     "rate": 0.467
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 28,
+   "models": {
+    "jev_seq_without": {
+     "score": 21,
+     "rate": 0.75
+    },
+    "luna_seq_without": {
+     "score": 10,
+     "rate": 0.357
+    },
+    "low_luna_seq_without": {
+     "score": 17,
+     "rate": 0.607
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 21,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.667
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.19
+    },
+    "low_luna_seq_without": {
+     "score": 10,
+     "rate": 0.476
+    }
+   }
+  },
+  {
+   "daimon": "5",
+   "full_marks": 18,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.778
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.389
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.833
+    }
+   }
+  }
+ ]
+}

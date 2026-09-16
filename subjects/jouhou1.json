@@ -1,0 +1,102 @@
+{
+ "slug": "jouhou1",
+ "name": "情報I",
+ "name_en": "Informatics I",
+ "full_marks": 100,
+ "test_mean": 56.59,
+ "test_sd": 15.72,
+ "blanks": 60,
+ "figures": 51,
+ "tables": 19,
+ "models": {
+  "jev_seq_without": {
+   "score": 44,
+   "acc": 0.4583,
+   "hensachi": 42.0
+  },
+  "luna_seq_without": {
+   "score": 36,
+   "acc": 0.3542,
+   "hensachi": 36.9
+  },
+  "low_luna_seq_without": {
+   "score": 62,
+   "acc": 0.6667,
+   "hensachi": 53.4
+  }
+ },
+ "daimon": [
+  {
+   "daimon": "1",
+   "full_marks": 20,
+   "models": {
+    "jev_seq_without": {
+     "score": 4,
+     "rate": 0.2
+    },
+    "luna_seq_without": {
+     "score": 4,
+     "rate": 0.2
+    },
+    "low_luna_seq_without": {
+     "score": 14,
+     "rate": 0.7
+    }
+   }
+  },
+  {
+   "daimon": "2",
+   "full_marks": 30,
+   "models": {
+    "jev_seq_without": {
+     "score": 18,
+     "rate": 0.6
+    },
+    "luna_seq_without": {
+     "score": 16,
+     "rate": 0.533
+    },
+    "low_luna_seq_without": {
+     "score": 20,
+     "rate": 0.667
+    }
+   }
+  },
+  {
+   "daimon": "3",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 14,
+     "rate": 0.56
+    },
+    "luna_seq_without": {
+     "score": 9,
+     "rate": 0.36
+    },
+    "low_luna_seq_without": {
+     "score": 15,
+     "rate": 0.6
+    }
+   }
+  },
+  {
+   "daimon": "4",
+   "full_marks": 25,
+   "models": {
+    "jev_seq_without": {
+     "score": 8,
+     "rate": 0.32
+    },
+    "luna_seq_without": {
+     "score": 7,
+     "rate": 0.28
+    },
+    "low_luna_seq_without": {
+     "score": 13,
+     "rate": 0.52
+    }
+   }
+  }
+ ]
+}
