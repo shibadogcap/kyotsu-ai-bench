@@ -19,6 +19,16 @@
    "acc": 0.5938,
    "hensachi": 46.2
   },
+  "terra_seq_without": {
+   "score": 55,
+   "acc": 0.5625,
+   "hensachi": 45.1
+  },
+  "sol_seq_without": {
+   "score": 81,
+   "acc": 0.8125,
+   "hensachi": 59.9
+  },
   "low_luna_seq_without": {
    "score": 74,
    "acc": 0.75,
@@ -38,6 +48,14 @@
      "score": 9,
      "rate": 0.75
     },
+    "terra_seq_without": {
+     "score": 9,
+     "rate": 0.75
+    },
+    "sol_seq_without": {
+     "score": 12,
+     "rate": 1.0
+    },
     "low_luna_seq_without": {
      "score": 9,
      "rate": 0.75
@@ -55,6 +73,14 @@
     "luna_seq_without": {
      "score": 9,
      "rate": 0.692
+    },
+    "terra_seq_without": {
+     "score": 9,
+     "rate": 0.692
+    },
+    "sol_seq_without": {
+     "score": 13,
+     "rate": 1.0
     },
     "low_luna_seq_without": {
      "score": 13,
@@ -74,6 +100,14 @@
      "score": 9,
      "rate": 0.474
     },
+    "terra_seq_without": {
+     "score": 12,
+     "rate": 0.632
+    },
+    "sol_seq_without": {
+     "score": 16,
+     "rate": 0.842
+    },
     "low_luna_seq_without": {
      "score": 15,
      "rate": 0.789
@@ -91,6 +125,14 @@
     "luna_seq_without": {
      "score": 9,
      "rate": 0.474
+    },
+    "terra_seq_without": {
+     "score": 13,
+     "rate": 0.684
+    },
+    "sol_seq_without": {
+     "score": 19,
+     "rate": 1.0
     },
     "low_luna_seq_without": {
      "score": 16,
@@ -110,6 +152,14 @@
      "score": 12,
      "rate": 0.667
     },
+    "terra_seq_without": {
+     "score": 6,
+     "rate": 0.333
+    },
+    "sol_seq_without": {
+     "score": 12,
+     "rate": 0.667
+    },
     "low_luna_seq_without": {
      "score": 12,
      "rate": 0.667
@@ -125,6 +175,14 @@
      "rate": 0.632
     },
     "luna_seq_without": {
+     "score": 9,
+     "rate": 0.474
+    },
+    "terra_seq_without": {
+     "score": 6,
+     "rate": 0.316
+    },
+    "sol_seq_without": {
      "score": 9,
      "rate": 0.474
     },

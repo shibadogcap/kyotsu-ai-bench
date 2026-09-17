@@ -19,6 +19,16 @@
    "acc": 0.5,
    "hensachi": 46.6
   },
+  "terra_seq_without": {
+   "score": 31,
+   "acc": 0.625,
+   "hensachi": 52.3
+  },
+  "sol_seq_without": {
+   "score": 40,
+   "acc": 0.8125,
+   "hensachi": 60.8
+  },
   "low_luna_seq_without": {
    "score": 39,
    "acc": 0.8125,
@@ -38,6 +48,14 @@
      "score": 18,
      "rate": 0.6
     },
+    "terra_seq_without": {
+     "score": 27,
+     "rate": 0.9
+    },
+    "sol_seq_without": {
+     "score": 27,
+     "rate": 0.9
+    },
     "low_luna_seq_without": {
      "score": 30,
      "rate": 1.0
@@ -55,6 +73,14 @@
     "luna_seq_without": {
      "score": 7,
      "rate": 0.35
+    },
+    "terra_seq_without": {
+     "score": 4,
+     "rate": 0.2
+    },
+    "sol_seq_without": {
+     "score": 13,
+     "rate": 0.65
     },
     "low_luna_seq_without": {
      "score": 9,
